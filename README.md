@@ -1,2 +1,3 @@
 # abtest_webpage_variants
-This data analysis examines sample website page variations conversion data using A/B testing to decide which one performs better
+
+This data analysis examines website traffic data from 2 web page variations using A/B testing to try to determine which page (if any) performs better with respect to conversions.
