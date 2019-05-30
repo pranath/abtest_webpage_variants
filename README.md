@@ -2,7 +2,7 @@
 
 This data analysis examines website traffic data from 2 web page variations using A/B testing to try to determine which page (if any) performs better with respect to conversions.
 
-# Presentations
+## Presentations
 This work was presented at the Data Science meetup 'Sussex Data Science' on 20th September 2018
 
 https://www.meetup.com/SussexDataScience/events/253842115/
